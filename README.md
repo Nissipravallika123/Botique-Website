@@ -1,2 +1,2 @@
-# Botique-Website
+# Boutique-Website
 HTML and CSS code
